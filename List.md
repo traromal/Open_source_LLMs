@@ -12,7 +12,7 @@
 
 ## Dolly-v2
 
-## GPT$all
+## GPT4all
 
 ## Bloom
 
